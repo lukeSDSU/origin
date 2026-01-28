@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-    std:: cout << "Mission Control is ready!" << std::endl;
+    std:: cout << "Hello World!" << std::endl;
     return 0;
 }
